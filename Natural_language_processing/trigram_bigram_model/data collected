@@ -1,0 +1,34 @@
+From Chuan-An Lin's answer below:
+
+ 
+
+Unigram model perplexity is 658.0445066285458
+
+ 
+
+Bigram model perplexity is 63.70757362051906
+
+ 
+
+Trigram model perplexity is 39.47865107091443
+
+ 
+
+Smoothed model (λ1=.1, λ2=.3, λ3=.6) perplexity is 48.1135178308028
+
+ 
+
+(more details in the student's answer below)
+
+ 
+
+Thanks Chuan-An!
+
+
+
+number of chars should be 16..... not what we have now 61530 stops and starts	
+fix smooth
+unigram fixed once char count is
+trigram is same problem as smooth
+
+
